@@ -15,3 +15,7 @@ vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinT
 vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.sg2.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+SG2+Singapore%0AByteVirt
 vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.sg3.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+SG3+Singapore%0ADigital+Ocean
 vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.sg4.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+SG4+Singapore%0AAofei
+#iptunnels
+vless://52203ad9-bae3-4633-9135-66856131c8a4@www.opensignal.com:80?security=&type=ws&path=/buy-vless-ws-pm-telegram-at-synricha&host=www.opensignal.com.runcloud-hts.apasih.id&encryption=none#vless-ws%20hts
+vless://e2f3c403-2f39-4807-be1e-3f05dab5fee9@www.opensignal.com:80?security=&type=ws&path=/buy-vless-ws-pm-telegram-at-synricha&host=www.opensignal.com.nginxui-ctb.iptunnels.com&encryption=none#vless-ws%20ctb
+vless://11731a39-63bf-45e6-9325-da187f7ddfd5@www.opensignal.com:80?security=&type=ws&path=/buy-vless-ws-pm-telegram-at-synricha&host=www.opensignal.com.runcloud-hts.apasih.id&encryption=none#vless-upgrade%20hts
