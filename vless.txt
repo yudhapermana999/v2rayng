@@ -1,14 +1,3 @@
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.id1.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+ID1+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.id1.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+ID2+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.id3.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+ID3+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.id4.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+ID4+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.sg1.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+SG1+Singapore%0AAlibaba
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.sg2.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+SG2+Singapore%0AByteVirt
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.sg3.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+SG3+Singapore%0ADigital+Ocean
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@www.opensignal.com:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=www.opensignal.com.sg4.sakhi.my.id&type=ws#OPOK %5BSAKHI%5D+SG4+Singapore%0AAofei
-#iptunnels
-vless://712f0b92-d34d-4490-8978-ea518508aad1@www.opensignal.com:80?security=&type=ws&path=/buy-vless-ws-pm-telegram-at-synricha&host=www.opensignal.com.runcloud-hts.apasih.id&encryption=none#vless-ws%20hts
-vless://4658df1f-a15c-4f69-a379-8a114b00b60e@www.opensignal.com:80?security=&type=ws&path=/buy-vless-ws-pm-telegram-at-synricha&host=www.opensignal.com.nginxui-ctb.iptunnels.com&encryption=none#vless-ws%20ctb
 #edukasi
 vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.id1.sakhi.my.id&type=ws#%5BSAKHI%5D+ID1+Zhejiang+Taobao+Network
 vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.id1.sakhi.my.id&type=ws#%5BSAKHI%5D+ID2+Zhejiang+Taobao+Network
