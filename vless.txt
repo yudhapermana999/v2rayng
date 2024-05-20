@@ -1,9 +1,1 @@
-#edukasi
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.id1.sakhi.my.id&type=ws#%5BSAKHI%5D+ID1+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.id1.sakhi.my.id&type=ws#%5BSAKHI%5D+ID2+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.id3.sakhi.my.id&type=ws#%5BSAKHI%5D+ID3+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.id4.sakhi.my.id&type=ws#%5BSAKHI%5D+ID4+Zhejiang+Taobao+Network
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.sg1.sakhi.my.id&type=ws#%5BSAKHI%5D+SG1+Singapore%0AAlibaba
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.sg2.sakhi.my.id&type=ws#%5BSAKHI%5D+SG2+Singapore%0AByteVirt
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.sg3.sakhi.my.id&type=ws#%5BSAKHI%5D+SG3+Singapore%0ADigital+Ocean
-vless://fccdaaae-af39-41a7-9fde-fd32a48278cf@isat.kencana.pw:80?path=%2FJoinTelegram%40Viper_Network&security=none&encryption=none&host=beta.zoom.us.sg4.sakhi.my.id&type=ws#%5BSAKHI%5D+SG4+Singapore%0AAofei
+vmess://eyJhZGQiOiJnb29nbGUuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJnb293ZS5jb20iLCJpZCI6ImdhYnVuZy1wcmVtaXVtLWh1YnVuZ2kteXVkaGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IlJVU0FLIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
